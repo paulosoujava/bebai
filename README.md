@@ -1,8 +1,12 @@
 Meus estudos sobre o react-nate
 
+
 Sobre este ap:
+---
+
+
 Mais uam app feito no curso B7WEB uma brincadeira com beber aguá
-----
+
 
 Images
 ----
